@@ -1,13 +1,19 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1762874201
-icon.svg::CompressedTexture2D::6893499963959635768::1762873478::1762874202::1::::<><><>0<>0<>9a56134cc6d61d82c49081450a39373a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-LICENSE.md::TextFile::-1::1762872946::0::1::::<><><>0<>0<><>::
-README.md::TextFile::-1::1762872922::0::1::::<><><>0<>0<><>::
-::res://Assets/::1762873621
-Screenshot from 2025-03-11 22-37-59.png::CompressedTexture2D::450059583382844141::1762873620::1762874202::1::::<><><>0<>0<>8dff1ab8ebf001501a3e122e7b088e39<>res://.godot/imported/Screenshot from 2025-03-11 22-37-59.png-cffcebe44fc19819de61da40cf049272.ctex::
-::res://Entities/::1762873991
-EntitySample.tscn::PackedScene::5574646508626283192::1762873991::0::1::::<><><>0<>0<><>::
-::res://Stages/::1762873943
-WorldSample.tscn::PackedScene::2824428357878872080::1762873815::0::1::::<><><>0<>0<><>::
-::res://Utilities/::1762873633
-GameManager.gd::GDScript::8175354634836971652::1762873633::0::1::::<>Node<><>0<>0<><>::
+::res://::1762938560
+icon.svg::CompressedTexture2D::6893499963959635768::1762931232::1762931305::1::::<><><>0<>0<>9a56134cc6d61d82c49081450a39373a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+LICENSE.md::TextFile::-1::1762931232::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1762931232::0::1::::<><><>0<>0<><>::
+::res://Assets/::1762931305
+Screenshot from 2025-03-11 22-37-59.png::CompressedTexture2D::450059583382844141::1762931232::1762931305::1::::<><><>0<>0<>8dff1ab8ebf001501a3e122e7b088e39<>res://.godot/imported/Screenshot from 2025-03-11 22-37-59.png-cffcebe44fc19819de61da40cf049272.ctex::
+::res://Entities/::1762931389
+::res://Entities/Player/::1762936304
+Player.gd::GDScript::3468246093738825731::1762936304::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene::5574646508626283192::1762933444::0::1::::<><><>0<>0<><>::uid://bpobrhpnckhxj::::res://Entities/Player/Player.gd<>uid://dkqr2b4867mus::::res://Entities/Player/roblox man srpite sheet.png
+roblox man srpite sheet.png::CompressedTexture2D::7895261035701791418::1762931885::1762931886::1::::<><><>0<>0<>f0725a9ec7a66a9b7b97b6c93f815b19<>res://.godot/imported/roblox man srpite sheet.png-70729376e1956e2e0cf185700a0af890.ctex::
+::res://Stages/::1762936034
+::res://Stages/Farm/::1762936315
+dirt.png::CompressedTexture2D::6052085676135416305::1762936018::1762936034::1::::<><><>0<>0<>fe6b78bfb5eb4a245175cc9358226c00<>res://.godot/imported/dirt.png-e7e801e15681fdaa4967464c74b0963c.ctex::
+Farm.tscn::PackedScene::2824428357878872080::1762936315::0::1::::<><><>0<>0<><>::uid://clonu4ihul0r1::::res://Entities/Player/Player.tscn<>uid://bc2u5756eigu1::::res://Stages/Farm/grass.png<>uid://cshw74xwy2wfx::::res://Stages/Farm/dirt.png
+grass.png::CompressedTexture2D::2583806212506758586::1762935586::1762936034::1::::<><><>0<>0<>ffc8eb9afca3d1f632cd1e790eafb9a8<>res://.godot/imported/grass.png-f3456eccf28174f4f3d8faf4d25252b0.ctex::
+::res://Utilities/::1762931232
+GameManager.gd::GDScript::8175354634836971652::1762931232::0::1::::<>Node<><>0<>0<><>::
